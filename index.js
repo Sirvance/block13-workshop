@@ -38,3 +38,12 @@ if (sum > 100) {
                 }
             }
         }
+
+
+
+
+function checkGreaterThanOrEqualTo5(num1,num2) {
+    if (num1 >=5 and num2 >= 5):
+    print "true"
+    else:
+    print "false"
